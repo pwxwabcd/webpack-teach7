@@ -1,0 +1,8 @@
+.hello {
+  color: red;
+}
+
+/*未被调用的css，依然会被打包到index.bundle.js中*/
+.hello1 {
+  color: blue;
+}

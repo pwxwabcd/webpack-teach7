@@ -1,0 +1,4 @@
+/*未被调用的css文件，不会被打包到js中*/
+.hello2 {
+  color: yellow;
+}
